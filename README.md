@@ -16,7 +16,7 @@
   ## Sobre o projeto
 
 
-Sistema para calcular a quantidade necessario para um churrasco, os calculos foram feiro com base <br>
+Sistema para calcular a quantidade necessaria para um churrasco, os calculos foram feiro com base <br>
 nessas informações:<br>
 Carne - 400gr por pessoa + de 6horas - 650gr<br>
 Cerveja - 1200ml por Pessoa + 6 horas - 2000ml<br>
